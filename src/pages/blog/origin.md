@@ -9,7 +9,7 @@ category: 'ideology'
 ### 序説
 
 脱コード化したクラインの壺とメタファーされる貨幣経済圏。主知主義的合理化による鉄の檻がネゲントロピーとして機能する先進国。ノヴァセン到来による計算機というリヴァイアサンと再魔術化及び再自然状態化。これらにティール的加速主義とSINIC理論そしてBio-politicsのエッセンスを融和した「報酬系的最適化自然」が人新世の末路と私は考える。
-<img width="467" alt="syokuryo_２" src="https://user-images.githubusercontent.com/124674475/219979520-e8df2a2c-85f0-45ce-8f0a-be84fc9f3f84.png">
+![スクリーンショット 2023-02-20 074051](https://user-images.githubusercontent.com/124674475/219979643-b86e4f63-6fa5-4f9c-8ee2-c40c0326a7e1.png)
 
 
 ### 末路への当為論
