@@ -8,17 +8,11 @@ category: 'Freelance'
 
 ## Heading 2
 
-脱コード化したクラインの壺とメタファーされる貨幣経済圏。主知主義的合理化による鉄の檻がネゲントロピーとして機能する先進国。ノヴァセン到来による再魔術化及び再自然状態化。これらにティール的加速主義とSINIC理論そしてフーコーのパノプティコンと生権力のエッセンスを融和した「報酬系的最適化自然」が人新世の末路と私は考える。
-
-```js
-let foo = 'bar';
-
-console.log(foo);
-```
+脱コード化したクラインの壺とメタファーされる貨幣経済圏。主知主義的合理化による鉄の檻がネゲントロピーとして機能する先進国。ノヴァセン到来による再魔術化及び再自然状態化。これらにティール的加速主義とSINIC理論そしてBio-politicsのエッセンスを融和した「報酬系的最適化自然」が人新世の末路と私は考える。
 
 ![image](https://unsplash.it/400/300)
 
-Mi sit amet mauris commodo quis imperdiet massa. Cras tincidunt lobortis feugiat vivamus at augue. Lobortis feugiat vivamus at augue. Vulputate mi sit amet mauris. Congue mauris rhoncus aenean vel elit. Ut morbi tincidunt augue interdum velit euismod in. Viverra justo nec ultrices dui sapien eget. Magna fringilla urna porttitor rhoncus. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Cum sociis natoque penatibus et magnis dis parturient montes nascetur. Sapien faucibus et molestie ac. Maecenas pharetra convallis posuere morbi leo urna. Mauris nunc congue nisi vitae suscipit tellus mauris a.
+計算機がリヴァイアサンになり、
 
 Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Enim tortor at auctor urna nunc id cursus. Mattis enim ut tellus elementum sagittis vitae et leo duis. Sed libero enim sed faucibus turpis in eu mi bibendum. Turpis massa tincidunt dui ut ornare. Eu sem integer vitae justo. Feugiat nibh sed pulvinar proin. Sagittis nisl rhoncus mattis rhoncus urna neque. Aenean et tortor at risus viverra adipiscing at in. Sed ullamcorper morbi tincidunt ornare massa. Lorem ipsum dolor sit amet consectetur. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Bibendum arcu vitae elementum curabitur vitae nunc sed. In egestas erat imperdiet sed euismod nisi. Tellus at urna condimentum mattis pellentesque. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Pellentesque sit amet porttitor eget dolor morbi non arcu risus.
 
