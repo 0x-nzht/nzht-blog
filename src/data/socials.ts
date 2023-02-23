@@ -8,5 +8,10 @@ export const socials = [
     name: 'GitHub',
     url: 'https://github.com/0x-nzht',
     icon: 'mdi:github'
+  },
+  {
+    name: 'icon',
+    url: 'https://github.com/0x-nzht',
+    icon: 'mdi:AccountCircle'
   }
 ]
