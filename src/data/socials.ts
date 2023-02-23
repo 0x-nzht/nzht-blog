@@ -12,6 +12,6 @@ export const socials = [
   {
     name: 'icon',
     url: 'https://github.com/0x-nzht',
-    icon: 'mdi:AccountCircle'
+    icon: 'mdi:account'
   }
 ]
