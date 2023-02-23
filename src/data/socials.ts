@@ -11,7 +11,7 @@ export const socials = [
   },
   {
     name: 'icon',
-    url: '../../../src/pages/except/profile.md',
+    url: '../../../src/pages/except/profile.paths.md',
     icon: 'mdi:account'
   }
 ]
