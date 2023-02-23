@@ -11,7 +11,7 @@ export const socials = [
   },
   {
     name: 'icon',
-    url: 'https://github.com/0x-nzht',
+    url: '/pages/except/profile',
     icon: 'mdi:account'
   }
 ]
