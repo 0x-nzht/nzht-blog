@@ -3,7 +3,7 @@ layout: '../../layouts/Post.astro'
 publishedAt: 2021-02-20
 ---
 
-![0bfb148f45913b29618f14430e47b2f4](https://user-images.githubusercontent.com/124674475/220978486-e4fcf9c6-dab0-4168-837c-4e71d2b4613a.jpg)
+![0bfb148f45913b29618f14430e47b2f4-removebg-preview](https://user-images.githubusercontent.com/124674475/220978926-9117381f-6b78-4a20-9401-93110fa6dc1d.png)
 
 
 2003/12/26-
