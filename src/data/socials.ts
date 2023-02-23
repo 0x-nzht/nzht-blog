@@ -1,4 +1,3 @@
-import sks from '.../src/pages/blog/web-design-trends-for-2023.paths.md';
 export const socials = [
   {
     name: 'Twitter',
@@ -12,7 +11,7 @@ export const socials = [
   },
   {
     name: 'icon',
-    url: '<sks>',
+    url: '.../src/pages/except/profile',
     icon: 'mdi:account'
   }
 ]
