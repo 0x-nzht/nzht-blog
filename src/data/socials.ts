@@ -8,7 +8,7 @@ export const socials = [
     name: 'GitHub',
     url: 'https://github.com/0x-nzht',
     icon: 'mdi:github'
-  }
+  },
   {
     name: 'account',
     url: 'https://github.com/0x-nzht',
