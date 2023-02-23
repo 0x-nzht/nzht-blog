@@ -11,7 +11,7 @@ export const socials = [
   },
   {
     name: 'icon',
-    url: '../../../src/pages/except/profile.paths.md',
+    url: '../../../src/pages/blog/web-design-trends-for-2023',
     icon: 'mdi:account'
   }
 ]
