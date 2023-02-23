@@ -6,7 +6,7 @@ export const socials = [
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/littlesticks',
+    url: 'https://github.com/0x-nzht',
     icon: 'mdi:github'
   }
 ]
