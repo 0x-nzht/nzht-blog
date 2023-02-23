@@ -11,7 +11,7 @@ export const socials = [
   },
   {
     name: 'icon',
-    url: '.../src/pages/except/profile',
+    url: 'https://subtle-bombolone-1e852c.netlify.app/except/profile/',
     icon: 'mdi:account'
   }
 ]
