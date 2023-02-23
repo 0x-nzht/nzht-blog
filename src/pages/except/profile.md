@@ -16,4 +16,4 @@ Haruto Nakazawa
 
 略歴:Kafka,inc co-CEO / Unpacked,inc COO（ex- Raitest Co.,Ltd. CEO / ヤフー事業プランアドバイザー）
 
-メディア出演: テレビ東京/TBS/NHK/文春/Newspics/TOKYOFM/日経ムック/日本教育新聞/U29/docomo gacco/Rainbow Town FM ...etc
+メディア出演: テレビ東京/TBS/NHK/文春/Newspics/TOKYOFM/日経BP/日本教育新聞/U29/docomo gacco/Rainbow Town FM ...etc
