@@ -7,9 +7,7 @@ publishedAt: 2021-02-20
 
 中澤治大 / Haruto Nakazawa（2003/12/26-）
 
-仏と汎神
-
-主題： 社会彫刻と啓蒙活動
+主題: 社会彫刻と啓蒙活動
 
 Fav: instructional design/mechanism design/Multi-Agent System 
 
