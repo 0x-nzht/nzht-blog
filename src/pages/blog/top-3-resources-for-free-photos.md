@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/Post.astro'
-title: Top 3 Resources for Free Photos
+title: 審美主義
 image: /images/photography
 publishedAt: 2021-02-20
 category: 'Resources'
