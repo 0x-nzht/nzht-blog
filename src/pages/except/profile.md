@@ -10,7 +10,7 @@ publishedAt: 2021-02-20
 主題: 社会彫刻と啓蒙活動
 
 興味分野: 人工社会
-![Mind Map (8)](https://user-images.githubusercontent.com/124674475/223667092-0c98e447-a46b-42ad-8069-f70d1b106dcd.jpg)
+![ダウンロード](https://user-images.githubusercontent.com/124674475/223668583-a9936958-53c1-45f6-a569-63b16b50fc1a.png)
 
 略歴:Kafka,inc co-CEO / Unpacked,inc COO  
 （ex- Raitest Co.,Ltd. CEO / ヤフー事業プランアドバイザー）
