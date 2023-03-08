@@ -9,11 +9,8 @@ publishedAt: 2021-02-20
 
 主題: 社会彫刻と啓蒙活動
 
+興味分野: 人工社会
 ![Mind Map (8)](https://user-images.githubusercontent.com/124674475/223667092-0c98e447-a46b-42ad-8069-f70d1b106dcd.jpg)
-
-信仰: 仏と汎神
-
-趣味: ピアノと知的生産
 
 略歴:Kafka,inc co-CEO / Unpacked,inc COO  
 （ex- Raitest Co.,Ltd. CEO / ヤフー事業プランアドバイザー）
