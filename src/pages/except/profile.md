@@ -8,9 +8,8 @@ publishedAt: 2021-02-20
 中澤治大 ｜ Haruto Nakazawa（2003/12/26-）
 
 主題: 社会彫刻と啓蒙活動
+![ダウンロード (1)](https://user-images.githubusercontent.com/124674475/223677486-af53a0f2-eb2b-452a-ba57-1c7f26140697.png)
 
-興味分野: 人工社会
-![ダウンロード](https://user-images.githubusercontent.com/124674475/223668583-a9936958-53c1-45f6-a569-63b16b50fc1a.png)
 
 略歴:Kafka,inc co-CEO / Unpacked,inc COO  
 （ex- Raitest Co.,Ltd. CEO / ヤフー事業プランアドバイザー）
