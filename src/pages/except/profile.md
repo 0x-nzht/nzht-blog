@@ -8,8 +8,11 @@ publishedAt: 2021-02-20
 中澤治大 ｜ Haruto Nakazawa（2003/12/26-）
 
 主題: 社会彫刻と啓蒙活動
+![Mind Map (6)](https://user-images.githubusercontent.com/124674475/223658075-646f11fa-2faa-46fa-abdd-96c7156e1a93.jpg)
 
-Fav: 仏と汎神/ID/メカニズムデザイン/OR/人工社会/MAS/ピアノ
+信仰: 仏と汎神
+
+趣味: ピアノと知的生産
 
 略歴:Kafka,inc co-CEO / Unpacked,inc COO  
 （ex- Raitest Co.,Ltd. CEO / ヤフー事業プランアドバイザー）
