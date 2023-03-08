@@ -8,7 +8,8 @@ publishedAt: 2021-02-20
 中澤治大 ｜ Haruto Nakazawa（2003/12/26-）
 
 主題: 社会彫刻と啓蒙活動
-![Mind Map (6)](https://user-images.githubusercontent.com/124674475/223658075-646f11fa-2faa-46fa-abdd-96c7156e1a93.jpg)
+
+![Mind Map (8)](https://user-images.githubusercontent.com/124674475/223667092-0c98e447-a46b-42ad-8069-f70d1b106dcd.jpg)
 
 信仰: 仏と汎神
 
